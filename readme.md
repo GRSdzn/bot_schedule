@@ -1,3 +1,5 @@
+# Telegram Бот для получения расписания пар
+
 ## Установка зависимостей
 - aiogram -  `pip install aiogram==2.25.2`
 - openpyxl - `pip install openpyxl`
