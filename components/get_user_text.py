@@ -1,5 +1,5 @@
 from aiogram.types import InputFile
-from index import bot, dp
+from main import bot, dp
 from components import schedule_data, help_command
 from components.user_data import get_user_data
 import os
